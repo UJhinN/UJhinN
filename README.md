@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/212/212673.gif" width="480" alt="AI Robot Concept">
+  <img src="https://giffiles.alphacoders.com/212/212673.gif" width="400" height="250" alt="AI Robot Concept">
 </div>
 
 Artificial Intelligence Engineering Student
