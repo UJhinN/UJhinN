@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natdanai Chookool
 ========================================================================================================================================
-
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/212/212673.gif" width="400" height="250" alt="AI Robot Concept">
+  <img src="https://media.tenor.com/u3Qr_vUH0uUAAAAi/one-piece-pixel.gif"  alt="AI Robot Concept">
 </div>
 
 Artificial Intelligence Engineering Student
