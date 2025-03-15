@@ -1,9 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natdanai Chookool
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natdanai Chookool
 ========================================================================================================================================
-<div align="center">
-  <img src="https://media.tenor.com/u3Qr_vUH0uUAAAAi/one-piece-pixel.gif"  alt="AI Robot Concept">
-</div>
-
 Artificial Intelligence Engineering Student
 -------------------------------------------
 
@@ -20,11 +16,11 @@ src="https://img.shields.io/github/followers/UJhinN?logo=github&style=for-the-ba
 </p>
 
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/UJhinN" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/natdanai_iv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 
+<a href="https://github.com/UJhinN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJhinN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+<a align="center"> <img src="https://media.tenor.com/u3Qr_vUH0uUAAAAi/one-piece-pixel.gif"  alt="AI Robot Concept">
 
-<a href="https://github.com/UJhinN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJhinN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
